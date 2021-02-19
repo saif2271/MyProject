@@ -1,0 +1,18 @@
+.bg-primary{
+	background: linear-gradient(to right ,#fc00ff , #00dbde) !important;
+}
+.my-icon{
+	font-size: 80px!important;
+	color: #fc00ff;
+}
+.services-container{
+	border: .5px solid #00dbde;
+	padding: 25px;
+	cursor: pointer;
+	transition: 200ms all ease-in-out;
+}
+.services-container:hover{
+	background: black;
+	color: white;
+	border-radius: 20px;
+}
